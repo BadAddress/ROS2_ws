@@ -1,0 +1,3 @@
+[console_scripts]
+py_node01 = example_py.py_node01:main
+

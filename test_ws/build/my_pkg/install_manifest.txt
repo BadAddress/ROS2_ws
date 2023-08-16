@@ -1,0 +1,16 @@
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/ament_index/resource_index/package_run_dependencies/my_pkg
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/ament_index/resource_index/parent_prefix_path/my_pkg
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.sh
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.dsv
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/environment/path.sh
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/environment/path.dsv
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/local_setup.bash
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/local_setup.sh
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/local_setup.zsh
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/local_setup.dsv
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/package.dsv
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/ament_index/resource_index/packages/my_pkg
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig.cmake
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig-version.cmake
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/share/my_pkg/package.xml
+/home/binbin/work/ROS2_ws/test_ws/install/my_pkg/lib/my_pkg/node01
